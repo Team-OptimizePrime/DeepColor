@@ -2,3 +2,5 @@
 .vscode/settings.json
 
 rgb_to_grayscale/grayscale/
+
+rgb_to_grayscale/.DS_Store
