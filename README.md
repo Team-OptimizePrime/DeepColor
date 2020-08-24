@@ -9,3 +9,7 @@ paperswithcode
 1. https://paperswithcode.com/paper/instance-aware-image-colorization
 2. https://paperswithcode.com/paper/deep-koalarization-image-colorization-using
 3. https://paperswithcode.com/paper/deep-exemplar-based-colorization
+
+
+deep.ipynb - re-implementation od deep koalarization
+https://github.com/baldassarreFe/deep-koalarization
